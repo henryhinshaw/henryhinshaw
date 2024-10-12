@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Henry Hinshaw</h1>
+<h1 align="center">Hi, I'm Henry Hinshaw</h1>
 <h3 align="center">A first year computer science student at CU Boulder</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henryhinshaw" alt="henryhinshaw" /></a> </p>
